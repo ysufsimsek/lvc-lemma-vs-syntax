@@ -16,9 +16,7 @@ from transformers import (
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print("Device:", device)
 
-# =========================
-# CSV DOSYALARI
-# =========================
+
 csv_files = [
     "sentences_with_lemmas_and_labels.csv",
     "sentences_with_lemmas_and_labels_lightveb.csv"
