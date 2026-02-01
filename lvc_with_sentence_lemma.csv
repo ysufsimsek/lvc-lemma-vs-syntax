@@ -1,0 +1,148 @@
+sentence,label,etiket_turu,sentence_lemma
+Büyük ABD para merkezi ticari bankalarındaki kurumsal kredilere yönelik baz oran.,0,Random,büyük abd para merkez ticari banka ki kurumsal kredi yönelik baz oran
+Elindeki torbayı çöp kutusuna attı.,0,NLVC,el torba çöp kutu at
+Orada altı aylık ihraçlardaki ortalama verim % 8.32.,0,Random,ora altı aylık ihraç ortalama verim % 8.32
+Arkadaşlarına kalemlerini gösterdi.,0,NLVC,arkadaş kalem göster
+Oynadığına inancı tam ve mükemmel şekilde oynuyor.,0,Random,oyna inancı tam ve mükemmel şekil oyna
+Yapılan araştırma için öğrencilere yeni görevler verildi.,1,LVC,yap araştır için öğrenci yeni görev ver
+Yaptığı hatadan sonra herkesin gözünden düştü.,1,LVC,yap hata sonra herkes göz düş
+Hatasını biraz geç olsada telafi etti.,0,NLVC,hata biraz geç ol telafi et
+Havasız kalan odayı havalandırmak için camı açtı.,0,NLVC,havasız kal oda havalan için camı aç
+Dün bakkaldan 3 ekmek aldım.,0,NLVC,dün bakkal 3 ekmek al
+Bu haberden sonra onun hayallerine darbe yapıldı.,1,LVC,bu haber sonra o hayal darbe yap
+Onunla beraber arkamdan iş çevirdi.,1,LVC,o beraber arka iş çevir
+İngilizce konuşmayan bir pilotla.,0,Random,i̇ngilizce konuş bir pilot
+Kitapları rafa düzenli bir şekilde koydu.,0,NLVC,kitap rafa düzenli bir şekil koy
+Kimse defterlerinde stok istemiyor.,0,Random,kimse defter stok iste
+Bu davranışıyla herkese karşı tavır koydu.,1,LVC,bu davranış herkes karşı tavır koy
+"Bağırarak, sana gününü göstereceğim dedi.",1,LVC,bağır sen gün göster de
+Ahmet bütün gece arabasını sürdü.,0,NLVC,ahmet bütün gece araba sür
+ANA FAİZ ORANI : % 10 1\/2.,0,Random,ana faiz oran: % 10 1\/2
+Genel bir sorundan söz etmek gerekir.,1,LVC,genel bir sorun söz et gerek
+O komşusuna büyük bir iyilik etti.,0,NLVC,o komşu büyük bir iyilik et
+"Bach'ın "" Air "" adlı parçasını izledi.",0,Random,bach air ad parça izle
+Doktorlar bu hastalığa çare bulamadı.,1,LVC,doktor bu hastalık çare bul
+Ve daha yavaş fastball bekleyin.,0,Random,ve daha yavaş fastball bekle
+Acıkınca buzdolabındaki soğuk yemekleri yedi.,0,NLVC,acık buzdolabı soğuk yemek ye
+Serpil teyzenin oğlu sonunda mezun oldu.,1,LVC,serpil teyze oğul sonunda mezun ol
+Hafta sonu tatilinin tadını çıkardı.,1,LVC,hafta son tatil tat çıkar
+Mitsubishi Estate gün sonunda 150 puan yükselişle 2680'den kapandı.,0,Random,mitsubishi estate gün son 150 puan yükseliş 2680 kapa
+Tartışma uzayınca konuyu kapattı.,1,LVC,tartış uza konu kapa
+Dışarı çıktı ve derin bir nefes aldı.,0,NLVC,dışarı çık ve derin bir nefes al
+Altın hissenin süresinin başında sona ermesi planlandı.,0,Random,altın hisse süre baş son er planla
+Teneffüslerde genelde sınıfta kalırdı.,0,NLVC,teneffüs genelde sınıf kal
+Maksimum hızı 72 mil/saat.,0,Random,maksimum hız 72 mil/saat
+Bu haftasonu birlikte pasta yaptık.,0,NLVC,bu hafta birlikte pasta yap
+Mavi takım halat yarışında kırmızı takımı kendi tarafına çekti.,0,NLVC,mavi takım halat yarış kırmızı takım kendi taraf çek
+Menkul kıymetler borsası teminatlarında borsacılara kredi komisyonu.,0,Random,menkul kıymet borsa teminat borsacı kredi komisyon
+Kaynak : Telerate Systems Inc.,0,Random,kaynak telerate systems inc
+Ve sizin pilotunuz da yapamaz.,0,Random,ve siz pilot da yap
+Duyduklarından sonra b planı devreye girdi.,1,LVC,duy sonra b plan devre gir
+"Berthold'un merkezi Wildbad , Batı Almanya'dadır ve Belçika'da da faaliyet göstermektedir.",1,LVC,berthold merkez wildbad batı almanya i ve belçika da faaliyet göster i
+Hasta olduğu için okuldan izin aldı.,1,LVC,hasta ol için okul izin al
+Denedim.,0,Random,dene
+Top oynarken komşunun camını kırdı.,0,NLVC,top oyna komşu cam kır
+Hala tepeden bakmayın diyorum.,0,Random,hala tepe bak de
+Her şeye rağmen istifa etmeye karar verdi.,1,LVC,her şey rağmen istifa et karar ver
+Kedisi bahçedeki fareyi yakaladı.,0,NLVC,kedi bahçe ki fare yakala
+En azından yükselirken değil.,0,Random,en az yüksel değil
+Peki sırada ne var?,0,Random,peki sıra ne var
+Dün öğretmenin dediklerini duydum.,0,NLVC,dün öğretme de duy
+Misafirler akşam yemeği için bize geldi.,0,NLVC,misafir akşam yemek için biz gel
+Cebinden anahtarlarını çıkardı.,0,NLVC,cep anahtar çıkar
+Tanıdık birisini takip etme yoluyla karanlıkta yardımcı silahla darbe vurarak parasını ve en değerli eşyalarını gasp etmek.,1,LVC,tanıdık biri takip et yol karanlık yardımcı silah darbe vur para ve en değerli eşya gasp et
+Martı New York piyasasına girdi.,1,LVC,mart new york piyasa gir
+Şirketin bu yatırımdan büyük zarar gördü.,1,LVC,şirket bu yatırım büyük zarar gör
+Sen bana tam 4 sene ortaklık yaptın.,1,LVC,sen ben tam 4 sene ortaklık yap
+Bekir amca bana yeni bir masa yaptı.,0,NLVC,bekir amca ben yeni bir masa yap
+Gizem 6 yıl okuduktan sonra doktor oldu.,0,NLVC,gizem 6 yıl oku sonra doktor ol
+Ancak oyuncular bununla mutabık değil.,0,Random,ancak oyuncu bu mutabık değil
+Söylediği ağır sözlerle arkadaşının kalbini kırdı.,1,LVC,söyle ağır söz arkadaş kalp kır
+Gözenekli bir hasır sepette.,0,Random,gözenekli bir hasır sepet
+Sevdiği kız Karadağ'a gidince yarım kaldığını hissetti.,1,LVC,sev kız karadağ git yarım kal hisset
+Mahallemizin amcası hepimize harçlık verdi.,0,NLVC,mahalle amca hep harçlık ver
+Bir kayıt tarihi henüz ayarlanmadı.,0,Random,bir kayıt tarih henüz ayarla
+Sabah uyandığında kendini arkadaşının evinde buldu.,0,NLVC,sabah uyan kendi arkadaş ev bul
+Toplantıda yeni ve ilginç bir fikir öne sürdü.,1,LVC,toplantı yeni ve ilginç bir fikir ön sür
+Fastball vuruşum iyidir.,0,Random,fastball vuruşum iyi
+Dün gece arkadaşımın evinde kaldık.,0,NLVC,dün gece arkadaş ev kal
+Borsadaki düşüşle birlikte büyük bir riske girdi.,1,LVC,borsa ki düşüş birlikte büyük bir riske gir
+Birleşmiş Milletler'in Bebek Listeleri gizleme konusunda uzmandır.,0,Random,birleşmiş millet bebek liste gizle konu uzman
+Onu Kağızman'da görmekten mutlu oluruz.,0,NLVC,o kağızman gör mutlu ol
+Arkadaşlarına içinde tuttuğu dertlerini döktü.,1,LVC,arkadaş iç tut dert dök
+Temiz bir tesisti personel.,0,Random,temiz bir tesis personel
+Evdeki alışveriş işlerine babam bakar.,1,LVC,ev ki alışveriş iş baba bak
+Kaynak : Fulton Prebon U.S.A Inc.,0,Random,kaynak fulton prebon U.S.A Inc
+İstemeden de olsa konuşmacının sözünü kesti.,1,LVC,iste de ol konuşmac söz kes
+Çocuk karşıdan karşıya geçerken annesinin elini tuttu.,0,NLVC,çocuk karşı karşı geç anne el tut
+Yapılan duyuru sonucunda yapay zekâ toplumda ilgi çekti.,1,LVC,yap duyur sonuç yapay zekâ toplum ilgi çek
+Ancak endişeli değil.,0,Random,ancak endişeli değil
+Kitabın bir sonraki sayfasını merakla çevirdi.,0,NLVC,kitap bir sonra ki sayfa merak çevir
+Annesinin bağırması sonucunda koşa koşa yemek masasına geldi.,0,NLVC,anne bağır sonuç koşa koşa yemek masa gel
+Babaannesinin çocukken kaldığı evi gördü.,0,NLVC,babaanne çocukken kal ev gör
+Rakip firma bize karşı savaş açtı.,1,LVC,rakip firma biz karşı savaş aç
+Koşarken ayağı takıldı ve yere düştü.,0,NLVC,koş ayak tak ve yer düş
+Arkadaşına döndü ve şunları söyledi: ben böyle ilgi görmedim!,1,LVC,arkadaş dön ve şu söyle ben böyle ilgi gör
+"Yogi Berra'nın dediği gibi , yeni baştan bir dejavu durumu.",0,Random,yogi berra de gibi yeni baş bir dejav durum
+Albümüyle büyük övgüler çekti.,1,LVC,albüm büyük övgü çek
+İçeriye girdiğimizi fark eden olmamıştı.,0,NLVC,içeri gir fark et ol
+Yaptığı şaka arkadaşının çok hoşuna gitti.,1,LVC,yap şaka arkadaş çok hoş git
+Anahtarı çevirip sessizce eve girdi.,0,NLVC,anahtar çevir sessizce ev gir
+Rüzgar esince dış kapıyı sıkıca kapattı.,0,NLVC,rüzgar es dış kapı sıkıca kapa
+Bay Rubendall'a erişilemiyor.,0,Random,bay rubendall erişile
+Kurumsal yatırımcılar çoğunlukla Salı günü kenar çizgisine yakın durdular.,0,Random,kurumsal yatırımcı çoğunluk salı gün kenar çizgi yakın dur
+Çocuklar parkta neşeyle top oynadı.,0,NLVC,çocuk park neşe top oyna
+"Bu konuda Vedat, Emir’den fikir aldı.",1,LVC,bu konu vedat emir fikir al
+Kargocu paketi verip hemen gitti.,0,NLVC,kargocu paket ver hemen git
+Fiyatlar Zurich'de karışık ve Stockholm'de düşüktü.,0,Random,fiyat zurich karışık ve stockholm düşük
+Anlaşma şartları açıklanmadı.,0,Random,anlaşma şart açıkla
+Hayatında ilk defa birine güven duymuştu.,1,LVC,hayat ilk defa biri güven duy
+Bana 3.sınıftaki fotoğrafını gösterdi.,0,NLVC,ben 3.sınıf ki fotoğraf göster
+Uzun bir yolculuğun sonunda ulaştığı yerde kendini buldu.,1,LVC,uzun bir yolculuk son ulaş yer kendi bul
+Beklenmedik bir hata meydana geldi.,1,LVC,beklenmedik bir hata meydan gel
+Minimum birim 100000 dolar.,0,Random,minim birim 100000 dolar
+Hocanın isteği üzerine masayı sağa doğru çekti.,0,NLVC,hoca istek üzer masa sağ doğru çek
+Bayan Waleson New York'ta yaşayan serbest bir yazar.,0,Random,bayan waleson new york yaşa serbest bir yazar
+Yeni oran 15 Şubat'ta muaccel olacaktır.,0,Random,yeni oran 15 şubat muaccel ol
+Aralarındaki fısıltıları duydum.,0,NLVC,ara fısıltı duy
+Pencereden dışarıya uzun uzun baktı.,0,NLVC,pencere dışarı uzun uzun bak
+Çok çalışmasına rağmen patrondan fırça yedi.,1,LVC,çok çalış rağmen patron fırça ye
+"31 Ekim 1989 , Salı.",0,Random,31 ekim 1989 salı
+CEO şirketin yeni anlaşmasına tereddüt etmeden imza attı.,1,LVC,CEO şirket yeni anlaşma tereddüt et imza at
+"""Eski zamanların bacaksızları"" diye konuşuyor.",0,Random,eski zaman bacaksız diye konuş
+Ev sahibi kirasını yüzde yüz arttırınca mağdur kaldığını belirtti.,1,LVC,ev sahip kira yüz yüz art mağdur kal belir
+Muhtemelen.,0,Random,muhtemelen
+Yolda yürürken eski bir arkadaşını gördü.,0,NLVC,yol yürü eski bir arkadaş gör
+Pek tabii.,0,Random,pek tabii
+Ekmek bıçağıyla taze ekmeği kesti.,0,NLVC,ekmek bıçak taze ekmek kes
+Markete gidip iki kilo domates aldı.,0,NLVC,market git iki kilo domates al
+Ağır kolileri üçüncü kata kadar sırtında taşıdı.,0,NLVC,ağır koli üçüncü kat kadar sırt taşı
+Ömer soğuk suya bir anda girdi.,0,NLVC,ömer soğuk su bir an gir
+Projenin gidişatı hakkında yöneticisinden haber aldı.,1,LVC,proje gidişat hak yönetici haber al
+Bu belge hukuki açıdan büyük önem taşıyor.,1,LVC,bu belge hukuki açı büyük önem taşı
+Gece yatağa yatıp uyumaya çalışırken bi anda aklına geldi.,1,LVC,gece yatak yat uyu çalış bir an akıl gel
+Bu başarıda onun disiplini büyük rol oynadı.,1,LVC,bu başarı o disipli büyük rol oyna
+Yoksa bu oda müziğinin geleceği midir?,0,Random,yok bu oda müzik gelecek mi
+Toplantı Türkiye saatinde akşam 9’da olacak.,0,NLVC,toplantı türkiye saat akşam 9 ol
+Kütüphaneden aldığı kitapları görevliye verdi.,0,NLVC,kütüphane al kitap görevli ver
+Tatilde deniz kenarında bir otelde kaldı.,0,NLVC,tatil deniz kenar bir otel kal
+Hayatında en sevdiği kişiden zarar gördü.,1,LVC,hayat en sev kişi zarar gör
+Bir kanalı boylamaktan bahsediyorum.,0,Random,bir kanal boyla bahset
+Yatağının altında para buldu.,0,NLVC,yatak alt para bul
+Yüzde değişimi yol sonundan itibarendir.,0,Random,yüz değişim yol son itibaren
+"Volkan, Ahmet’e döndü dedi ki sana sonsuza kadar saygı duyacağım.",1,LVC,volkan ahmet dön de ki sen sonsuz kadar saygı duy
+Yiğit konferanstaki detayları tek tek not tuttu.,1,LVC,yiğit konferansa ki detay tek tek not tut
+Müessese Indianapolis'te bulunacak.,0,Random,müessese indianapolis bulun
+4.300 kurumdan bazıları emeklilik fonunun parçasıdır.,0,Random,4.300 kurum bazı emeklilik fon parça
+Bayan Haag Elianti oynuyor.,0,Random,bayan haag elianti oyne
+Kol sorunları gelecek yıl onu tekrar küçüklere doğru zorladı.,0,Random,kol sorun gelecek yıl o tekrar küçük doğru zorla
+Yanlışlıkla masadaki suyu yere döktü.,0,NLVC,yanlışlık masa ki su yer dök
+Onun bu saçma davranışlarına maruz kaldı.,1,LVC,o bu saçma davranış maruz kal
+İyi bir kontrole sahiptir.,0,Random,iyi bir kontrol sahip i
+Kol saatime bakıyorum.,0,Random,kol saat bak
+Birbirlerine destek olarak ödevi bitirdiler.,1,LVC,birbiri destek olarak öde bitir
+Sabah erkenden okula gitti.,0,NLVC,sabah erkenden okul git
+Yoksa bunun sebebi Bayan Collins'in gitmiş olması mıydı?,0,Random,yok bu sebep bayan collins git ol mi
+Ali dede hayata dair tavsiyeler verdi.,1,LVC,ali dede hayat dair tavsiye ver
+Genç girişimci piyasada iyi bir fırsat yakaladı.,1,LVC,genç girişimci piyasa iyi bir fırsat yakala
+SEC'den Bay Lane hararetli bir şekilde bu tahminleri tartıştı.,0,Random,sec bay lane hararet li bir şekil bu tahmin tartış
