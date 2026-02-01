@@ -43,7 +43,7 @@ The repository provides minimal, experiment-oriented scripts:
 
 ### Universal Dependencies Turkish Treebanks
 
-Light Verb Constructions are extracted from the following
+Light Verb Constructions used for training are extracted from the following
 **Universal Dependencies Turkish treebanks**:
 
 - UD Turkish-ATIS  
@@ -59,22 +59,36 @@ Light Verb Constructions are extracted from the following
 These treebanks cover multiple domains (spoken language, news, travel, etc.),
 enabling robust evaluation across diverse linguistic contexts.
 
-### Data Refinement
+---
 
-- Candidate LVCs are primarily identified via the `compound:lvc` dependency relation.
-- Automatically extracted examples are manually verified.
-- Non-idiomatic, incorrect, or ambiguous instances are removed.
+### Diagnostic Evaluation Set
 
-### Evaluation Set
+This repository **includes a manually curated diagnostic test set**:
 
-A controlled diagnostic test set (**N = 147**) consisting of three balanced conditions
-(**49 instances each**):
+**`lvc_same_words_with_labels2.csv`**
 
-- **LVC Positive**: idiomatic light verb constructions  
-- **NLVC (Near-LVC)**: literal uses sharing the same target verbs  
-- **Random Negatives**: in-domain random negative controls  
+The dataset consists of **147 Turkish sentences**, balanced across three
+evaluation categories (**49 instances each**):
 
-The diagnostic set is manually constructed to probe model decision boundaries.
+- **LVC Positive**  
+  Idiomatic light verb constructions.
+
+- **NLVC (Near-LVC)**  
+  Literal uses that share the same target verb–noun components.
+
+- **Random Negatives**  
+  In-domain random negative control sentences.
+
+#### File Format
+
+| Column        | Description |
+|--------------|-------------|
+| `sentence`   | Turkish sentence |
+| `label`      | Binary label (1 = LVC, 0 = non-LVC) |
+| `etiket_turu`| Evaluation category (LVC / NLVC / Random) |
+
+This diagnostic set is designed to **explicitly probe model decision boundaries**
+and to distinguish lexical memorization from deeper linguistic generalization.
 
 ---
 
@@ -93,8 +107,10 @@ Bag-of-features representation derived from dependency parses
 Fine-tuning BERTurk (32k and 128k) using surface-form inputs.
 
 ### Task 4: Lemma-Based Transformer Models
-Fine-tuning BERTurk using lemmatized input sequences
+Fine-tuning BERTurk using lemmatized token sequences
 to isolate lexical effects.
+
+Evaluation emphasizes **split-wise performance** rather than single aggregate scores.
 
 ---
 
@@ -103,7 +119,7 @@ to isolate lexical effects.
 - Fixed random seeds across experiments
 - Stratified train/test splits
 - Multiple runs for Transformer-based models
-- Emphasis on split-wise performance rather than aggregate accuracy
+- Diagnostic evaluation reported separately
 
 ---
 
