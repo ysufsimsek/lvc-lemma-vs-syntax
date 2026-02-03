@@ -83,7 +83,7 @@ print("TRAIN LABEL DAĞILIMI:\n", y_train.value_counts())
 
 
 model = LogisticRegression(
-    max_iter=2000,
+    max_iter=1000,
     class_weight="balanced"
 )
 
